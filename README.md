@@ -12,7 +12,7 @@ Lint with flake
 
 test with pytest
 
-![Alt text](assets/image.png)
+![Alt text](assets/image1.png)
 
 ![Alt text](assets/image2.png)
 
